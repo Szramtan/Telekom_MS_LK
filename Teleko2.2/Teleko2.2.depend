@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1491414673 source:f:\,studia\telekomunikacja\teleko2.2\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<Windows.h>
+	<unistd.h>
+	"rs232.h"
+
+1468140730 f:\,studia\telekomunikacja\teleko2.2\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<sys/file.h>
+	<errno.h>
+	<windows.h>
+
+1468142831 source:f:\,studia\telekomunikacja\teleko2.2\rs232.c
+	"rs232.h"
+
+1336508831 source:f:\,studia\telekomunikacja\teleko2.2\timer.c
+	"timer.h"
+
+1336508842 f:\,studia\telekomunikacja\teleko2.2\timer.h
+	<stdio.h>
+	<sys/time.h>
+	<signal.h>
+	<windows.h>
+
